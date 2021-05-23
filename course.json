@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "courseName": "Full stack career track",
+        "price": 8000,
+        "description": "afadfas"
+    },
+    {
+        "id": 2,
+        "courseName": "Full stack digital marketing",
+        "price": 9000,
+        "description": "afadfas"
+    }
+]
