@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "sectionId": 1,
+        "name": "Getting Started With Javascript"
+    },
+    {
+        "id": 2,
+        "sectionId": 1,
+        "name": "Now Start Coding"
+    },
+    {
+        "id": 3,
+        "sectionId": 2,
+        "name": "Introduction To Python"
+    },
+    {
+        "id": 4,
+        "sectionId": 2,
+        "name": "Python Basics"
+    },
+    {
+        "id": 5,
+        "sectionId": 3,
+        "name": "SQL Fundamentals - Part 1"
+    },
+    {
+        "id": 6,
+        "sectionId": 3,
+        "name": "SQL Fundamentals - Part 2"
+    },
+    {
+        "id": 7,
+        "sectionId": 4,
+        "name": "Djanfo Models"
+    },
+    {
+        "id": 8,
+        "sectionId": 4,
+        "name": "Django Forms"
+    },
+    {
+        "id": 9,
+        "sectionId": 5,
+        "name": "Class Components"
+    },
+    {
+        "id": 10,
+        "sectionId": 5,
+        "name": "Functional Components"
+    },
+    {
+        "id": 11,
+        "sectionId": 6,
+        "name": "Getting Started With Javascript"
+    },
+    {
+        "id": 12,
+        "sectionId": 6,
+        "name": "Now Start Coding"
+    },
+    {
+        "id": 13,
+        "sectionId": 7,
+        "name": "Getting Started With Javascript"
+    },
+    {
+        "id": 14,
+        "sectionId": 7,
+        "name": "Now Start Coding"
+    },
+    {
+        "id": 15,
+        "sectionId": 8,
+        "name": "Getting Started With Javascript"
+    },
+    {
+        "id": 16,
+        "sectionId": 8,
+        "name": "Now Start Coding"
+    },
+    {
+        "id": 17,
+        "sectionId": 9,
+        "name": "Getting Started With Javascript"
+    },
+    {
+        "id": 18,
+        "sectionId": 9,
+        "name": "Now Start Coding"
+    },
+    {
+        "id": 19,
+        "sectionId": 10,
+        "name": "Getting Started With Javascript"
+    },
+    {
+        "id": 20,
+        "sectionId": 10,
+        "name": "Now Start Coding"
+    }
+]
