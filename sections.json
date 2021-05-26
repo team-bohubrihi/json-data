@@ -2,51 +2,61 @@
     {
         "id": 1,
         "courseId": 1,
+        "sec_no": 1,
         "name": "Mordern Javascript Programming"
     },
     {
         "id": 2,
         "courseId": 1,
+        "sec_no": 2,
         "name": "Python Programming"
     },
     {
         "id": 3,
         "courseId": 1,
+        "sec_no": 3,
         "name": "SQL for database"
     },
     {
         "id": 4,
         "courseId": 1,
+        "sec_no": 4,
         "name": "Backend Development with Django"
     },
     {
         "id": 5,
         "courseId": 1,
+        "sec_no": 5,
         "name": "React for Frontend Development"
     },
     {
         "id": 6,
         "courseId": 2,
+        "sec_no": 1,
         "name": "Mordern Javascript Programming"
     },
     {
         "id": 7,
         "courseId": 2,
+        "sec_no": 2,
         "name": "Mordern Javascript Programming"
     },
     {
         "id": 8,
         "courseId": 2,
+        "sec_no": 3,
         "name": "Mordern Javascript Programming"
     },
     {
         "id": 9,
         "courseId": 2,
+        "sec_no": 4,
         "name": "Mordern Javascript Programming"
     },
     {
         "id": 10,
         "courseId": 2,
+        "sec_no": 5,
         "name": "Mordern Javascript Programming"
     }
 ]
