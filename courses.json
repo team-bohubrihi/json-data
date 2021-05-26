@@ -1,29 +1,32 @@
-[
-    {
-        "id": 1,
+{
+    "course01": {
         "courseName": "Full stack career track",
         "price": 8000,
         "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
         "slug": "full-stack-career-track",
         "additional-discout": 0,
         "uploaded_on": 1621955909726,
-        "course-instructors": [20, 23],
+        "course-instructors": [
+            20,
+            23
+        ],
         "course-duration": "36",
         "category": 3,
         "primary_thumb": "https://bohubrihi.com/wp-content/uploads/2020/07/Asset-8@4x-8-1-300x225.png"
     },
-    {
+    "course02": {
         "id": 2,
-        "courseName": "Full stack digital marketing",
+        "courseName": "MERN stack career track",
         "price": 9000,
         "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
         "slug": "full-stack-digital-marketing",
         "additional-discout": 0,
         "uploaded_on": 1621955909726,
-        "course-instructors": [11],
+        "course-instructors": [
+            11
+        ],
         "course-duration": "36",
         "category": 5,
         "primary_thumb": "https://bohubrihi.com/wp-content/uploads/2020/07/Asset-12@4x-8-300x225.png"
-
     }
-]
+}

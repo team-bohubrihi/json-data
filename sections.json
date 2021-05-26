@@ -1,62 +1,52 @@
-[
-    {
-        "id": 1,
+{
+    "section01": {
         "courseId": 1,
         "sec_no": 1,
         "name": "Mordern Javascript Programming"
     },
-    {
-        "id": 2,
+    "section02": {
         "courseId": 1,
         "sec_no": 2,
         "name": "Python Programming"
     },
-    {
-        "id": 3,
+    "section03": {
         "courseId": 1,
         "sec_no": 3,
         "name": "SQL for database"
     },
-    {
-        "id": 4,
+    "section04": {
         "courseId": 1,
         "sec_no": 4,
         "name": "Backend Development with Django"
     },
-    {
-        "id": 5,
+    "section05": {
         "courseId": 1,
         "sec_no": 5,
         "name": "React for Frontend Development"
     },
-    {
-        "id": 6,
+    "section06": {
         "courseId": 2,
         "sec_no": 1,
         "name": "Mordern Javascript Programming"
     },
-    {
-        "id": 7,
+    "section07": {
         "courseId": 2,
         "sec_no": 2,
         "name": "Mordern Javascript Programming"
     },
-    {
-        "id": 8,
+    "section08": {
         "courseId": 2,
         "sec_no": 3,
         "name": "Mordern Javascript Programming"
     },
-    {
-        "id": 9,
+    "section09": {
         "courseId": 2,
         "sec_no": 4,
         "name": "Mordern Javascript Programming"
     },
-    {
-        "id": 10,
+    "section10": {
         "courseId": 2,
         "sec_no": 5,
         "name": "Mordern Javascript Programming"
     }
-]
+}
