@@ -1,103 +1,102 @@
 {
     "lesson01": {
-        "sectionId": 1,
+        "sectionId": "section01",
         "lesson_no": 1,
         "name": "Getting Started With Javascript"
     },
     "lesson02": {
-        "sectionId": 1,
+        "sectionId": "section01",
         "lesson_no": 2,
         "name": "Now Start Coding"
     },
     "lesson03": {
-        "sectionId": 2,
+        "sectionId": "section02",
         "lesson_no": 1,
         "name": "Introduction To Python"
     },
     "lesson04": {
-        "sectionId": 2,
+        "sectionId": "section02",
         "lesson_no": 2,
         "name": "Python Basics"
     },
     "lesson05": {
-        "sectionId": 3,
+        "sectionId": "section03",
         "lesson_no": 1,
         "name": "SQL Fundamentals - Part 1"
     },
     "lesson06": {
-        "sectionId": 3,
+        "sectionId": "section03",
         "lesson_no": 2,
         "name": "SQL Fundamentals - Part 2"
     },
     "lesson07": {
-        "sectionId": 4,
+        "sectionId": "section04",
         "lesson_no": 1,
         "name": "Djanfo Models"
     },
     "lesson08": {
         "id": 8,
-        "sectionId": 4,
+        "sectionId": "section04",
         "lesson_no": 2,
         "name": "Django Forms"
     },
     "lesson09": {
-        "sectionId": 5,
+        "sectionId": "section05",
         "lesson_no": 1,
         "name": "Class Components"
     },
     "lesson10": {
-        "sectionId": 5,
+        "sectionId": "section05",
         "lesson_no": 2,
         "name": "Functional Components"
     },
     "lesson11": {
-        "sectionId": 6,
+        "sectionId": "section06",
         "lesson_no": 1,
         "name": "Getting Started With Javascript"
     },
     "lesson12": {
-        "sectionId": 6,
+        "sectionId": "section06",
         "lesson_no": 2,
         "name": "Now Start Coding"
     },
     "lesson13": {
-        "sectionId": 7,
+        "sectionId": "section07",
         "lesson_no": 1,
         "name": "Getting Started With Javascript"
     },
     "lesson14": {
-        "sectionId": 7,
+        "sectionId": "section07",
         "lesson_no": 2,
         "name": "Now Start Coding"
     },
     "lesson15": {
-        "sectionId": 8,
+        "sectionId": "section08",
         "lesson_no": 1,
         "name": "Getting Started With Javascript"
     },
     "lesson16": {
-        "id": 16,
-        "sectionId": 8,
+        "sectionId": "section08",
         "lesson_no": 2,
         "name": "Now Start Coding"
     },
     "lesson17": {
-        "sectionId": 9,
+        "sectionId": "section09",
         "lesson_no": 1,
         "name": "Getting Started With Javascript"
     },
     "lesson18": {
-        "sectionId": 9,
+        "sectionId": "section09",
         "lesson_no": 2,
         "name": "Now Start Coding"
     },
     "lesson19": {
-        "sectionId": 10,
+        "sectionId": "section10",
         "lesson_no": 1,
         "name": "Getting Started With Javascript"
     },
     "lesson20": {
-        "sectionId": 10,
+        "sectionId": "section10",
         "lesson_no": 2,
         "name": "Now Start Coding"
     }
